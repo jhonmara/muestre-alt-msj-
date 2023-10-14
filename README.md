@@ -1,0 +1,2 @@
+# muestre-alt-msj-
+MENSAJES DE CADENA ALEATORIA
